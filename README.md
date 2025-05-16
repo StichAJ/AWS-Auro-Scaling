@@ -1,6 +1,7 @@
 # AWS-Auro-Scaling
 
-## AWS Auto Scaling Group with Load Balancer Overview
+## AWS Auto Scaling Group with Load Balancer
+# Overview
 An AWS Auto Scaling Group with a Load Balancer ensures that applications run smoothly by dynamically adjusting the number of EC2 instances based on traffic demand. This architecture enhances availability, reliability, and fault tolerance.
 # Architecture
 	• Application Load Balancer (ALB): Distributes incoming traffic across multiple EC2 instances, ensuring high availability and balanced workloads.
