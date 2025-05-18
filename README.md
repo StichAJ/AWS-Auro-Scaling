@@ -1,4 +1,4 @@
-# AWS-Auro-Scaling
+# AWS-Auto-Scaling with Load Balancer
 
 ## AWS Auto Scaling Group with Load Balancer-AWS Architecture
 # 🚀 Overview
